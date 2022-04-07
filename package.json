@@ -1,0 +1,26 @@
+{
+  "name": "rmr-tech-radar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "REACT_APP_RADAR_NAME='RMR Technology Radar' aoe_technology_radar-buildRadar",
+    "build-static": "aoe_technology_radar-createStaticFiles",
+    "generate-json": "aoe_technology_radar-generateJson",
+    "start": "python -m http.server 8080",
+    "newReleaseFolder": "./script/create_new_release_folder.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RedMadRobot/techradar"
+  },
+  "keywords": [
+    "tech-radar",
+    "rmr"
+  ],
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "aoe_technology_radar": "^3.1.2"
+  }
+}

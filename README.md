@@ -1,0 +1,3 @@
+# RedMadRobot Technology Radar
+
+TODO

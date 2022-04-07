@@ -1,0 +1,77 @@
+{
+  "footerFootnote": "Роботы помогают людям запускать цифровые сервисы в финтехе, телекоме, банках, ритейле, страховании, e-commerce, медицине и промышленности. Мы пишем код, проектируем удобные интерфейсы, исследуем и анализируем рынки, пользователей и конкурентов, находим и тестируем гипотезы, запускаем MVP, трансформируем бизнес-процессы и докапываемся до самой сути.",
+  "socialLinks": [
+    { "href": "https://www.facebook.com/redmadrobot", "iconName": "facebook" },
+    { "href": "https://twitter.com/redmadrobot", "iconName": "twitter" },
+    {
+      "href": "https://www.instagram.com/red_mad_robot",
+      "iconName": "instagram"
+    },
+    {
+      "href": "https://www.youtube.com/channel/UCNsKb10vKvLCx3C0Yijmp0w",
+      "iconName": "youtube"
+    },
+    { "href": "https://github.com/RedMadRobot", "iconName": "github" }
+  ],
+  "pageHelp": {
+    "paragraphs": [
+      {
+        "headline": "Введение",
+        "values": ["Тут должен быть текст"]
+      },
+      {
+        "headline": "Что такое тех радар",
+        "values": ["Тут должен быть текст"]
+      },
+      {
+        "headline": "Как создается",
+        "values": ["Тут должен быть текст"]
+      },
+      {
+        "headline": "Как использовать",
+        "values": ["Тут должен быть текст"]
+      }
+    ],
+    "quadrants": [
+      {
+        "name": "Libraries & Frameworks",
+        "description": "Описание про библиотеки"
+      },
+      {
+        "name": "Utilities",
+        "description": "Описание про утилиты"
+      },
+      {
+        "name": "Methods & Patterns",
+        "description": "Описание про подходы"
+      },
+      {
+        "name": "Languages",
+        "description": "Описание про языки"
+      }
+    ],
+    "rings": [
+      {
+        "name": "Adopt",
+        "description": "это технологии которые активно используются в компании и доказали свою эффективность"
+      },
+      {
+        "name": "Trial",
+        "description": "технологии которые прошли все этапы тестирования на стейджах или даже в продакшене и готовятся после пристального внимания на них перейти в активно используемые технологии"
+      },
+      {
+        "name": "Assess",
+        "description": "технологии которые используются в тестовых проектах и не факт, что доберутся до стадии их масштабирования и адаптации, но почерпнуть что-то новое от их использования будет полезно"
+      },
+      {
+        "name": "Hold",
+        "description": "технологии которые используются, по ним есть экспертиза, но они или уже устарели или появились более оптимальные технологии и для новых проектов стоит выбрать что-то другое."
+      }
+    ],
+    "sourcecodeLink": {
+      "href": "https://github.com/RedMadRobot/techradar",
+      "name": "RedMadRobot Technical Radar on GitHub",
+      "description": "Contributions and source code of the RedMadRobot Technical Radar on GitHub:"
+    }
+  }
+}
