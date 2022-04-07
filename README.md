@@ -1,3 +1,3 @@
 # RedMadRobot Technology Radar
 
-TODO
+TODO (сослаться на исходники)
