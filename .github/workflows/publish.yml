@@ -21,10 +21,10 @@ jobs:
         run: yarn
 
       - name: Build 🔧
-        run: yarn build
+        run: PUBLIC_URL=/techradar yarn build
 
       - name: Build Static site 🔧
-        run: yarn build-static
+        run: PUBLIC_URL=/techradar yarn build-static
       
       - name: Generate Data 🔧
         run: yarn generate-json
