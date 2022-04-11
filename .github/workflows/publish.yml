@@ -20,6 +20,9 @@ jobs:
       - name: Download dependencies 🔧
         run: yarn
 
+      - name: Pre-build
+        run: script/addEditLinks.py
+
       - name: Build 🔧
         run: PUBLIC_URL=/techradar yarn build
 
