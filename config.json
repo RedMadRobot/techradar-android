@@ -1,0 +1,13 @@
+{
+  "quadrants": {
+    "libraries-and-frameworks": "Libraries & Frameworks",
+    "methods-and-patterns": "Methods & Patterns",
+    "languages": "Languages",
+    "utilities": "Utilities"
+  },
+  "rings": ["all", "adopt", "trial", "assess", "hold"],
+  "editLink": {
+    "radarLink": "https://github.com/RedMadRobot/techradar-android/edit/main/radar",
+    "title": "Edit"
+  }
+}
