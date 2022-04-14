@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/techradar/static/js/main.9f41ca05.chunk.js",
-    "main.js.map": "/techradar/static/js/main.9f41ca05.chunk.js.map",
-    "runtime-main.js": "/techradar/static/js/runtime-main.9b2c87e0.js",
-    "runtime-main.js.map": "/techradar/static/js/runtime-main.9b2c87e0.js.map",
-    "static/css/2.2e950081.chunk.css": "/techradar/static/css/2.2e950081.chunk.css",
-    "static/js/2.0eb8b852.chunk.js": "/techradar/static/js/2.0eb8b852.chunk.js",
-    "static/js/2.0eb8b852.chunk.js.map": "/techradar/static/js/2.0eb8b852.chunk.js.map",
-    "index.html": "/techradar/index.html",
-    "static/css/2.2e950081.chunk.css.map": "/techradar/static/css/2.2e950081.chunk.css.map",
-    "static/js/2.0eb8b852.chunk.js.LICENSE.txt": "/techradar/static/js/2.0eb8b852.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/techradar/static/media/search.679b98f8.svg"
+    "main.js": "/techradar-android/static/js/main.9f41ca05.chunk.js",
+    "main.js.map": "/techradar-android/static/js/main.9f41ca05.chunk.js.map",
+    "runtime-main.js": "/techradar-android/static/js/runtime-main.2eef8d2d.js",
+    "runtime-main.js.map": "/techradar-android/static/js/runtime-main.2eef8d2d.js.map",
+    "static/css/2.c05052a8.chunk.css": "/techradar-android/static/css/2.c05052a8.chunk.css",
+    "static/js/2.d52389be.chunk.js": "/techradar-android/static/js/2.d52389be.chunk.js",
+    "static/js/2.d52389be.chunk.js.map": "/techradar-android/static/js/2.d52389be.chunk.js.map",
+    "index.html": "/techradar-android/index.html",
+    "static/css/2.c05052a8.chunk.css.map": "/techradar-android/static/css/2.c05052a8.chunk.css.map",
+    "static/js/2.d52389be.chunk.js.LICENSE.txt": "/techradar-android/static/js/2.d52389be.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/techradar-android/static/media/search.679b98f8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b2c87e0.js",
-    "static/css/2.2e950081.chunk.css",
-    "static/js/2.0eb8b852.chunk.js",
+    "static/js/runtime-main.2eef8d2d.js",
+    "static/css/2.c05052a8.chunk.css",
+    "static/js/2.d52389be.chunk.js",
     "static/js/main.9f41ca05.chunk.js"
   ]
 }
