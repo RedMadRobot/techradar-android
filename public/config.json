@@ -7,7 +7,7 @@
   },
   "rings": ["all", "adopt", "trial", "assess", "hold"],
   "editLink": {
-    "radarLink": "https://github.com/RedMadRobot/techradar/edit/main/radar",
+    "radarLink": "https://github.com/RedMadRobot/techradar-android/edit/main/radar",
     "title": "Edit"
   }
 }

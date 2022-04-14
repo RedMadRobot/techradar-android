@@ -24,10 +24,10 @@ jobs:
         run: script/addEditLinks.py
 
       - name: Build 🔧
-        run: PUBLIC_URL=/techradar yarn build
+        run: PUBLIC_URL=/techradar-android yarn build
 
       - name: Build Static site 🔧
-        run: PUBLIC_URL=/techradar yarn build-static
+        run: PUBLIC_URL=/techradar-android yarn build-static
       
       - name: Generate Data 🔧
         run: yarn generate-json

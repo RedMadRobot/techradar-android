@@ -14,11 +14,11 @@ def findLatestFiles():
     return list(latestFiles.values())
 
 def appendToFiles(files):
-    link = "https://github.com/RedMadRobot/techradar/edit/main/"
+    link = "https://github.com/RedMadRobot/techradar-android/edit/main/"
 
     for filePath in files:
         with open(filePath, "a") as file:
-            appendText = "\n" + "Links: [edit page]({}), [open discussion](https://github.com/RedMadRobot/techradar/discussions/new)".format(link + filePath) + "\n"
+            appendText = "\n" + "Links: [edit page]({}), [open discussion](https://github.com/RedMadRobot/techradar-android/discussions/new)".format(link + filePath) + "\n"
             file.write(appendText)
 
 def main():
