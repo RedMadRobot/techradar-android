@@ -21,6 +21,6 @@
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "aoe_technology_radar": "^3.1.2"
+    "aoe_technology_radar": "3.1.2"
   }
 }

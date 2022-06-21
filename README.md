@@ -4,7 +4,11 @@ RedMadRobot Technology Radar, inspired by [AOE TechRadar](https://www.aoe.com/te
 
 ## Build the radar
 
-Install yarn.
+Install yarn and dependecies:
+
+```bash
+yarn
+```
 
 Build the radar:
 
