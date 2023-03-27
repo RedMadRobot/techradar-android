@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.js": "/techradar-android/static/js/main.9f41ca05.chunk.js",
-    "main.js.map": "/techradar-android/static/js/main.9f41ca05.chunk.js.map",
-    "runtime-main.js": "/techradar-android/static/js/runtime-main.2eef8d2d.js",
-    "runtime-main.js.map": "/techradar-android/static/js/runtime-main.2eef8d2d.js.map",
-    "static/css/2.c05052a8.chunk.css": "/techradar-android/static/css/2.c05052a8.chunk.css",
-    "static/js/2.d52389be.chunk.js": "/techradar-android/static/js/2.d52389be.chunk.js",
-    "static/js/2.d52389be.chunk.js.map": "/techradar-android/static/js/2.d52389be.chunk.js.map",
+    "main.css": "/techradar-android/static/css/main.51811c50.css",
+    "main.js": "/techradar-android/static/js/main.6a24e5c4.js",
+    "static/media/overview.svg": "/techradar-android/static/media/overview.2e91b190e821b00544b6.svg",
+    "static/media/question.svg": "/techradar-android/static/media/question.f49af21b0654459dca13.svg",
+    "static/media/search.svg": "/techradar-android/static/media/search.679b98f82ae5196a396b.svg",
+    "static/media/filter.svg": "/techradar-android/static/media/filter.410297804239c0ea9222.svg",
+    "static/media/pie.svg": "/techradar-android/static/media/pie.7ef18b270cc2509e9039.svg",
     "index.html": "/techradar-android/index.html",
-    "static/css/2.c05052a8.chunk.css.map": "/techradar-android/static/css/2.c05052a8.chunk.css.map",
-    "static/js/2.d52389be.chunk.js.LICENSE.txt": "/techradar-android/static/js/2.d52389be.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/techradar-android/static/media/search.679b98f8.svg"
+    "static/media/back.svg": "/techradar-android/static/media/back.6d132c7e444cbbde9648.svg",
+    "static/media/close.svg": "/techradar-android/static/media/close.0a8d1a237ec4bf5218c6.svg",
+    "static/media/blip_new.svg": "/techradar-android/static/media/blip_new.a61075d6f6957f19d98c.svg",
+    "static/media/index.cjs": "/techradar-android/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "static/media/blip_changed.svg": "/techradar-android/static/media/blip_changed.08c84aef1cf47bb9bb1c.svg",
+    "static/media/blip_default.svg": "/techradar-android/static/media/blip_default.5e46a91d07200ba1acf3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2eef8d2d.js",
-    "static/css/2.c05052a8.chunk.css",
-    "static/js/2.d52389be.chunk.js",
-    "static/js/main.9f41ca05.chunk.js"
+    "static/css/main.51811c50.css",
+    "static/js/main.6a24e5c4.js"
   ]
 }
