@@ -7,31 +7,21 @@ on:
 
 jobs:
   build:
+    env:
+        REACT_APP_RADAR_NAME: 'RMR Technology Radar'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@master
+      - uses: actions/setup-node@v3
         with:
-          persist-credentials: false
-
-      - name: Use Node.js 16
-        uses: actions/setup-node@v2
-        with:
-          node-version: '16'
-
-      - name: Download dependencies 🔧
-        run: yarn
+          node-version: "lts/*"
+      - run: npm ci
 
       - name: Pre-build
         run: script/addEditLinks.py
 
       - name: Build 🔧
-        run: PUBLIC_URL=/techradar-android yarn build
-
-      - name: Build Static site 🔧
-        run: PUBLIC_URL=/techradar-android yarn build-static
-      
-      - name: Generate Data 🔧
-        run: yarn generate-json
+        run: PUBLIC_URL=/techradar-android npm run build:static
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.3.0

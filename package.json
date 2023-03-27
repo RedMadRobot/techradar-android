@@ -5,9 +5,15 @@
     "license": "MIT",
     "scripts": {
         "build": "REACT_APP_RADAR_NAME='RMR Technology Radar' npx aoe_technology_radar-buildRadar",
-        "build-static": "aoe_technology_radar-createStaticFiles",
-        "generate-json": "aoe_technology_radar-generateJson",
-        "start": "python -m http.server 8080",
+        "postbuild": "npm run generateJson",
+        "prebuild:static": "npm run build",
+        "build:static": "npx aoe_technology_radar-createStaticFiles",
+        "generateJson": "npx aoe_technology_radar-generateJson",
+        "prestart": "npm run build:static",
+        "start": "npm run start:server",
+        "prestart:static": "npm run build:static",
+        "start:static": "npm run start:server",
+        "start:server": "python3 -m http.server 8080 --directory build",
         "newReleaseFolder": "./script/create_new_release_folder.sh"
     },
     "dependencies": {
