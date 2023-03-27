@@ -4,32 +4,26 @@ RedMadRobot Technology Radar, inspired by [AOE TechRadar](https://www.aoe.com/te
 
 ## Build the radar
 
-Install yarn and dependecies:
+Install dependecies:
 
 ```bash
-yarn
+npm i
 ```
 
-Build the radar:
+Build and serve the radar:
 
 ```bash
-yarn build && yarn build-static && yarn generate-json
+npm run start:static
 ```
 
-Serve
-
-```bash
-python3 -m http.server 8080
-```
-
-Then open here: [http://localhost:8080/build](http://localhost:8080/build)
+Then open here: [http://localhost:8080](http://localhost:8080)
 
 ## Usage
 
 For a new Technology Radar release, create a folder of the release date (`YYYY-MM-DD`) under `radar/`, or use:
 
 ```bash
-yarn newReleaseFolder
+npm run newReleaseFolder
 ```
 
 ## Maintaining items
