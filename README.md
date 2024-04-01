@@ -8,7 +8,7 @@ Build the radar
 
 ```bash
 npm i
-ln -s build techradar-android && npm run serve
+npm run serve
 ```
 
 Build the radar with static files

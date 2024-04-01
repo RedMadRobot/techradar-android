@@ -1,6 +1,6 @@
 {
   "basePath": "/techradar-android",
-  "baseUrl": "https://redmadrobot.github.io",
+  "baseUrl": "https://redmadrobot.github.io/techradar-android",
   "editUrl": "https://github.dev/RedMadRobot/techradar-android/blob/main/radar/{release}/{id}.md",
   "logoFile": "logo.svg",
   "toggles": {
