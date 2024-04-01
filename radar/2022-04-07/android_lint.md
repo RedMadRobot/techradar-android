@@ -2,7 +2,7 @@
 title:      Android lint
 ring:       adopt
 quadrant:   utilities
-info:       Статический анализатор кода
+tags: [tooling, ci]
 
 ---
 

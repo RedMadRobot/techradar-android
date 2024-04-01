@@ -2,7 +2,7 @@
 title:      Moshi
 ring:       adopt
 quadrant:   libraries-and-frameworks
-info:       Работа с JSON
+tags: [library]
 
 ---
 

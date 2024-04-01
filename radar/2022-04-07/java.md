@@ -2,7 +2,7 @@
 title:      Java
 ring:       hold
 quadrant:   languages
-info:       Строго типизированный объектно-ориентированный язык программирования общего назначения разработанный компанией Sun Microsystems
+tags: [languages]
 
 ---
 

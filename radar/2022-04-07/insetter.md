@@ -2,7 +2,7 @@
 title:      Insetter
 ring:       adopt
 quadrant:   libraries-and-frameworks
-info:       Обработка инсетов
+tags: [library]
 
 ---
 

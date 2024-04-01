@@ -2,7 +2,7 @@
 title:      CameraX
 ring:       trial
 quadrant:   libraries-and-frameworks
-info:       Библиотека для работы с камерой
+tags: [library]
 
 ---
 

@@ -2,7 +2,7 @@
 title:      Danger-kotlin
 ring:       assess
 quadrant:   utilities
-info:       Stop saying "you forgot to …" in code review
+tags: [tooling, ci]
 
 ---
 

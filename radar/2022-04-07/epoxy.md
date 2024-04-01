@@ -2,7 +2,7 @@
 title:      Epoxy
 ring:       trial
 quadrant:   libraries-and-frameworks
-info:       Построение экранов на списках
+tags: [library]
 
 ---
 

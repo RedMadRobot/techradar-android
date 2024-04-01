@@ -2,7 +2,7 @@
 title:      Mockk
 ring:       adopt
 quadrant:   libraries-and-frameworks
-info:       Фреймворк для тестов
+tags: [library, test]
 
 ---
 
