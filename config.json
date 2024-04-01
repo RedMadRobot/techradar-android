@@ -1,0 +1,135 @@
+{
+  "basePath": "/techradar-android",
+  "baseUrl": "https://redmadrobot.github.io",
+  "editUrl": "https://github.dev/RedMadRobot/techradar-android/blob/main/radar/{release}/{id}.md",
+  "logoFile": "logo.svg",
+  "toggles": {
+    "showChart": true,
+    "showTagFilter": true,
+    "showQuadrantList": true,
+    "showEmptyRings": false
+  },
+  "sections": ["radar", "tags", "list"],
+  "colors": {
+    "foreground": "#faf5fa",
+    "background": "#0C0C0C",
+    "highlight": "#d90015",
+    "content": "rgba(88, 88, 88, 0.2)",
+    "text": "#f2f5fa",
+    "link": "#c30011",
+    "border": "rgb(255, 16, 41, 0.8)",
+    "tag": "rgba(88, 88, 88, 0.6)"
+  },
+  "quadrants": [
+    {
+      "id": "libraries-and-frameworks",
+      "title": "Libraries & Frameworks",
+      "description": "Сюда попадают библиотеки и фреймворки, полезные для реализации ПО.",
+      "color": "#84BFA4"
+    },
+    {
+      "id": "methods-and-patterns",
+      "title": "Methods & Patterns",
+      "description": "Паттерны и подходы очень важны, т.к. многие из них оказывают большее и продолжительное влияние на проекты. В эту категорию попадает информация о методах и паттернах, касающихся разработки, сontinuous X, тестировании, организации, архитектуре и т.д.",
+      "color": "#248EA6"
+    },
+    {
+      "id": "languages",
+      "title": "Languages",
+      "description": "Языки на которых пишут роботы.",
+      "color": "#F25244"
+    },
+    {
+      "id": "utilities",
+      "title": "Utilities",
+      "description": "Здесь мы размещаем различные программные инструменты - от небольших утилит до более крупных программных проектов.",
+      "color": "#40713f"
+    }
+  ],
+  "rings": [
+    {
+      "id": "adopt",
+      "title": "Adopt",
+      "description": "",
+      "color": "#5cb449",
+      "radius": 0.5,
+      "strokeWidth": 5
+    },
+    {
+      "id": "trial",
+      "title": "Trial",
+      "description": "",
+      "color": "#faa03d",
+      "radius": 0.69,
+      "strokeWidth": 3
+    },
+    {
+      "id": "assess",
+      "title": "Assess",
+      "description": "",
+      "color": "#029df7",
+      "radius": 0.85,
+      "strokeWidth": 2
+    },
+    {
+      "id": "hold",
+      "title": "Hold",
+      "description": "",
+      "color": "#688190",
+      "radius": 1,
+      "strokeWidth": 0.75
+    }
+  ],
+  "flags": {
+    "new": {
+      "color": "#f1235a",
+      "title": "New",
+      "titleShort": "N",
+      "description": "New in this version"
+    },
+    "changed": {
+      "color": "#40a7d1",
+      "title": "Changed",
+      "titleShort": "C",
+      "description": "Recently changed"
+    },
+    "default": {
+      "description": "Unchanged"
+    }
+  },
+  "chart": {
+    "size": 800,
+    "blipSize": 12
+  },
+  "social": [
+    {
+      "href": "https://www.instagram.com/red_mad_robot",
+      "icon": "instagram"
+    },
+    {
+      "href": "https://www.youtube.com/channel/UCNsKb10vKvLCx3C0Yijmp0w",
+      "icon": "youtube"
+    },
+    {
+      "href": "https://github.com/RedMadRobot",
+      "icon": "github"
+    }
+  ],
+  "imprint": "",
+  "labels": {
+    "title": "RedMad Technology Radar",
+    "imprint": "",
+    "quadrant": "Quadrant",
+    "quadrantOverview": "Обзор",
+    "zoomIn": "Увеличить",
+    "filterByTag": "Сортировать по тэгу",
+    "footer": "Роботы помогают людям запускать цифровые сервисы в финтехе, телекоме, банках, ритейле, страховании, e-commerce, медицине и промышленности. Мы пишем код, проектируем удобные интерфейсы, исследуем и анализируем рынки, пользователей и конкурентов, находим и тестируем гипотезы, запускаем MVP, трансформируем бизнес-процессы и докапываемся до самой сути.",
+    "notUpdated": "Этот пункт не обновлялся в трех последних версиях Радара",
+    "notFound": "404 - Congrats. You broke it.",
+    "pageAbout": "Что такое тех радар",
+    "pageOverview": "Обзор технологий",
+    "pageSearch": "Поиск",
+    "searchPlaceholder": "Что ищете?",
+    "metaDescription": ""
+  }
+}

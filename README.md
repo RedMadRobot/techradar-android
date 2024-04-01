@@ -4,19 +4,21 @@ RedMadRobot Technology Radar, inspired by [AOE TechRadar](https://www.aoe.com/te
 
 ## Build the radar
 
-Install dependecies:
+Build the radar
 
 ```bash
 npm i
+ln -s build techradar-android && npm run serve
 ```
 
-Build and serve the radar:
+Build the radar with static files
 
 ```bash
-npm run start:static
+npm i
+npm run build
 ```
 
-Then open here: [http://localhost:8080](http://localhost:8080)
+Then open here: [http://localhost:3000/techradar-android/](http://localhost:3000/techradar-android/)
 
 ## Usage
 
@@ -47,8 +49,7 @@ Following front-matter attributes are possible:
 - **title**: Name of the Item
 - **quadrant**: Quadrant. One of `libraries-and-frameworks`, `methods-and-patterns`, `languages`, `utilities`
 - **ring**: Ring section in radar. One of `trial`, `assess`, `adopt`, `hold`
-- **info**: (optional) A short textual description of the item (visible in
-  overview pages)
+- **tags**: Optional tags for filtering
 - **featured**: (optional, default "true") If you set this to `false`, the item
   will not be visible in the radar quadrants but still be available in the overview.
 
