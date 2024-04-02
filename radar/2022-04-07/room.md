@@ -2,7 +2,7 @@
 title:      Room
 ring:       adopt
 quadrant:   libraries
-tags: [library]
+tags: [database]
 
 ---
 

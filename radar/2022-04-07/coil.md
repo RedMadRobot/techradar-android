@@ -2,7 +2,7 @@
 title:      coil
 ring:       adopt
 quadrant:   libraries
-tags: [library]
+tags: [image loading]
 
 ---
 

@@ -2,7 +2,6 @@
 title:      Java
 ring:       hold
 quadrant:   languages-and-frameworks
-tags: [languages-and-frameworks]
 
 ---
 

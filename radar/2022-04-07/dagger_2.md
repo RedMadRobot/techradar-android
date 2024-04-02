@@ -1,8 +1,8 @@
 ---
 title:      Dagger 2
 ring:       adopt
-quadrant:   libraries
-tags: [library, di]
+quadrant:   languages-and-frameworks
+tags: [DI]
 
 ---
 

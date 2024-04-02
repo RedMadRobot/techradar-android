@@ -2,7 +2,7 @@
 title:      RxJava
 ring:       hold
 quadrant:   libraries
-tags: [library]
+tags: [concurrency]
 
 ---
 

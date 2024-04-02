@@ -2,7 +2,7 @@
 title:      Groupie
 ring:       adopt
 quadrant:   libraries
-tags: [library]
+tags: [recycler view]
 
 ---
 

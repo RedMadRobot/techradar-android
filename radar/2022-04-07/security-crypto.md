@@ -2,7 +2,7 @@
 title:      security-crypto
 ring:       adopt
 quadrant:   libraries
-tags: [library]
+tags: [security]
 
 ---
 

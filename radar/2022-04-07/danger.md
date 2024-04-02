@@ -2,7 +2,7 @@
 title:      Danger
 ring:       adopt
 quadrant:   utilities
-tags: [tooling, ci]
+tags: [quality control, CI]
 
 ---
 

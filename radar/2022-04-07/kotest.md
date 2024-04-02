@@ -2,7 +2,7 @@
 title:      Kotest
 ring:       adopt
 quadrant:   libraries
-tags: [library]
+tags: [unit testing]
 
 ---
 

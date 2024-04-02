@@ -2,7 +2,7 @@
 title:      Insetter
 ring:       adopt
 quadrant:   libraries
-tags: [library]
+tags: [UI]
 
 ---
 

@@ -2,7 +2,7 @@
 title:      Android lint
 ring:       adopt
 quadrant:   utilities
-tags: [tooling, ci]
+tags: [quality control, CI]
 
 ---
 

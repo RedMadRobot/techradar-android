@@ -2,7 +2,7 @@
 title:      Danger-kotlin
 ring:       assess
 quadrant:   utilities
-tags: [tooling, ci]
+tags: [quality control, CI]
 
 ---
 

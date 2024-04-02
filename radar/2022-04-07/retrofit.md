@@ -2,7 +2,7 @@
 title:      Retrofit
 ring:       adopt
 quadrant:   libraries
-tags: [library]
+tags: [network]
 
 ---
 

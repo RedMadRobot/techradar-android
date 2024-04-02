@@ -2,7 +2,7 @@
 title:      Timber
 ring:       adopt
 quadrant:   libraries
-tags: [library, tooling]
+tags: [logging]
 
 ---
 

@@ -2,7 +2,7 @@
 title:      kotlinx.coroutines
 ring:       adopt
 quadrant:   libraries
-tags: [library]
+tags: [concurrency]
 
 ---
 

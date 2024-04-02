@@ -2,7 +2,7 @@
 title:      ViewModel
 ring:       adopt
 quadrant:   libraries
-tags: [library, architecture]
+tags: [architecture]
 
 ---
 

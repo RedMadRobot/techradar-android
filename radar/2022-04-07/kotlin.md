@@ -2,7 +2,6 @@
 title:      Kotlin
 ring:       adopt
 quadrant:   languages-and-frameworks
-tags: [languages-and-frameworks]
 
 ---
 

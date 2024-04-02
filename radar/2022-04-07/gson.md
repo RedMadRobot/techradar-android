@@ -2,7 +2,7 @@
 title:      Gson
 ring:       hold
 quadrant:   libraries
-tags: [library]
+tags: [serialization]
 
 ---
 

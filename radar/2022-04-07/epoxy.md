@@ -2,7 +2,7 @@
 title:      Epoxy
 ring:       trial
 quadrant:   libraries
-tags: [library]
+tags: [recycler view]
 
 ---
 

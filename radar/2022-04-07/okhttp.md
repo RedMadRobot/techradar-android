@@ -2,7 +2,7 @@
 title:      OkHttp
 ring:       adopt
 quadrant:   libraries
-tags: [library]
+tags: [network]
 
 ---
 

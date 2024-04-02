@@ -2,7 +2,6 @@
 title:      CameraX
 ring:       trial
 quadrant:   libraries
-tags: [library]
 
 ---
 

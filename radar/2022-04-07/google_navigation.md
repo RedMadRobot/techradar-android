@@ -2,7 +2,7 @@
 title:      Google Navigation
 ring:       adopt
 quadrant:   libraries
-tags: [library, navigation]
+tags: [navigation]
 
 ---
 

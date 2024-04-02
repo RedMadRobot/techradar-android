@@ -2,7 +2,7 @@
 title:      kotlinx.serialization
 ring:       trial
 quadrant:   libraries
-tags: [library]
+tags: [serialization]
 
 ---
 
