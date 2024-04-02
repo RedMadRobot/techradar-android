@@ -1,7 +1,7 @@
 ---
 title:      Kotlin extensions
 ring:       hold
-quadrant:   libraries-and-frameworks
+quadrant:   libraries
 tags: [library]
 
 ---

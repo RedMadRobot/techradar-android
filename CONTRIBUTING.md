@@ -23,7 +23,7 @@
 ---
 title:      Лучшая библиотека в мире
 ring:       trial
-quadrant:   libraries-and-frameworks
+quadrant:   libraries
 tags: 
 
 ---
@@ -37,7 +37,7 @@ tags:
 | **Аттрибут** | **Описание**                                                                                                             | **Возможные значения**                                                             |
 |--------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | `title`      | Отображаемое название странички                                                                                          | Любая строка                                                                       |
-| `quadrant`   | Квадрант                                                                                                                 | Один из: `libraries-and-frameworks` `utilities` `methods-and-patterns` `languages` |
+| `quadrant`   | Квадрант                                                                                                                 | Один из: `libraries` `utilities` `methods-and-patterns` `languages-and-frameworks` |
 | `ring`       | Кольцевая секция в радаре                                                                                                | Одно из: `adopt` `trial` `assess` `hold`                                           |
 | `tags`       | (опционально) Тэг                                                                                                        | Любая строка                                                                       |
 | `featured`   | (опционально, по умолчанию `true`) Если установить в `false` - страничку не будет видно на радаре, а только в [overview] | `true` или `false`                                                                 |
@@ -100,5 +100,5 @@ tags:
 [new-discussion]: https://github.com/RedMadRobot/techradar-android/discussions/new
 [front-matter]: https://github.com/jxson/front-matter
 [how-to]: https://redmadrobot.github.io/techradar-android/help-and-about-tech-radar.html
-[overview]: https://redmadrobot.github.io/techradar-android/libraries-and-frameworks.html
-[camerax]: https://redmadrobot.github.io/techradar-android/libraries-and-frameworks/camerax.html
+[overview]: https://redmadrobot.github.io/techradar-android/libraries.html
+[camerax]: https://redmadrobot.github.io/techradar-android/libraries/camerax.html

@@ -1,7 +1,7 @@
 ---
 title:      Moshi
 ring:       adopt
-quadrant:   libraries-and-frameworks
+quadrant:   libraries
 tags: [library]
 
 ---

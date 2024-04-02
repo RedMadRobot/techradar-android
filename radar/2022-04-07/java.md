@@ -1,8 +1,8 @@
 ---
 title:      Java
 ring:       hold
-quadrant:   languages
-tags: [languages]
+quadrant:   languages-and-frameworks
+tags: [languages-and-frameworks]
 
 ---
 

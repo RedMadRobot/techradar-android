@@ -1,7 +1,7 @@
 ---
 title:      Paging 3
 ring:       trial
-quadrant:   libraries-and-frameworks
+quadrant:   libraries
 tags: [library]
 
 ---

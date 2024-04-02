@@ -22,9 +22,9 @@
   },
   "quadrants": [
     {
-      "id": "libraries-and-frameworks",
-      "title": "Libraries & Frameworks",
-      "description": "Сюда попадают библиотеки и фреймворки, полезные для реализации ПО.",
+      "id": "libraries",
+      "title": "Libraries",
+      "description": "Сюда попадают библиотеки, полезные для реализации ПО.",
       "color": "#84BFA4"
     },
     {
@@ -34,9 +34,9 @@
       "color": "#248EA6"
     },
     {
-      "id": "languages",
-      "title": "Languages",
-      "description": "Языки на которых пишут роботы.",
+      "id": "languages-and-frameworks",
+      "title": "Languages & Frameworks",
+      "description": "Языки и фреймворки которые используют роботы.",
       "color": "#F25244"
     },
     {

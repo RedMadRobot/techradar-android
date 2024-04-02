@@ -47,7 +47,7 @@ Text goes here. You can use **markdown** here.
 Following front-matter attributes are possible:
 
 - **title**: Name of the Item
-- **quadrant**: Quadrant. One of `libraries-and-frameworks`, `methods-and-patterns`, `languages`, `utilities`
+- **quadrant**: Quadrant. One of `libraries`, `methods-and-patterns`, `languages-and-frameworks`, `utilities`
 - **ring**: Ring section in radar. One of `trial`, `assess`, `adopt`, `hold`
 - **tags**: Optional tags for filtering
 - **featured**: (optional, default "true") If you set this to `false`, the item

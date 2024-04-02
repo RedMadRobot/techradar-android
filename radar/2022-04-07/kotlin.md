@@ -1,8 +1,8 @@
 ---
 title:      Kotlin
 ring:       adopt
-quadrant:   languages
-tags: [languages]
+quadrant:   languages-and-frameworks
+tags: [languages-and-frameworks]
 
 ---
 
