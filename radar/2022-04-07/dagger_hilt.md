@@ -1,8 +1,8 @@
 ---
 title:      Dagger Hilt
 ring:       adopt
-quadrant:   libraries-and-frameworks
-info:       Тот же Dagger - только проще
+quadrant:   languages-and-frameworks
+tags: [DI]
 
 ---
 

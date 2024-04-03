@@ -1,8 +1,8 @@
 ---
 title:      Gson
 ring:       hold
-quadrant:   libraries-and-frameworks
-info:       Работа с JSON
+quadrant:   libraries
+tags: [serialization]
 
 ---
 

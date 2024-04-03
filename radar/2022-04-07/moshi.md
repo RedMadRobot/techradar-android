@@ -1,8 +1,8 @@
 ---
 title:      Moshi
 ring:       adopt
-quadrant:   libraries-and-frameworks
-info:       Работа с JSON
+quadrant:   libraries
+tags: [serialization]
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title:      View Binding
 ring:       adopt
-quadrant:   libraries-and-frameworks
-info:       Взаимодействие с view
+quadrant:   libraries
+tags: [UI]
 
 ---
 

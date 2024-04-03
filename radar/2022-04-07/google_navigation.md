@@ -1,8 +1,8 @@
 ---
 title:      Google Navigation
 ring:       adopt
-quadrant:   libraries-and-frameworks
-info:       Навигация в приложении
+quadrant:   libraries
+tags: [navigation]
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title:      Insetter
 ring:       adopt
-quadrant:   libraries-and-frameworks
-info:       Обработка инсетов
+quadrant:   libraries
+tags: [UI]
 
 ---
 

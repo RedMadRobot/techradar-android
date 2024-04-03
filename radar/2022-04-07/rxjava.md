@@ -1,8 +1,8 @@
 ---
 title:      RxJava
 ring:       hold
-quadrant:   libraries-and-frameworks
-info:       Многопоточность
+quadrant:   libraries
+tags: [concurrency]
 
 ---
 

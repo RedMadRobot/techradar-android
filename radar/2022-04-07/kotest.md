@@ -1,8 +1,8 @@
 ---
 title:      Kotest
 ring:       adopt
-quadrant:   libraries-and-frameworks
-info:       Фреймворк для тестов
+quadrant:   libraries
+tags: [unit testing]
 
 ---
 
