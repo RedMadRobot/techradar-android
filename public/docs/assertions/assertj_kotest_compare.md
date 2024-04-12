@@ -77,12 +77,8 @@
 - [Выбор библиотеки ассертов для проекта на Kotlin](https://habr.com/ru/articles/510206/)
 
 <!-- Links -->
-<<<<<<< Updated upstream
-[asserts_compare]: FIXME
-=======
 [assertj_radar]: https://redmadrobot.github.io/techradar-android/libraries/assertj/
 [kotest_radar]: https://redmadrobot.github.io/techradar-android/libraries/kotest-assertion/
 [junit_radar]: https://redmadrobot.github.io/techradar-android/libraries/junit-assertion/
-[asserts_compare]: https://github.com/RedMadRobot/techradar-android/blob/2f33c3effe6074d720aedd2bc4717daf5e42ec12/public/snippets/assertions/assertj_kotest_compare.kt
->>>>>>> Stashed changes
+[asserts_compare]: https://github.com/RedMadRobot/techradar-android/blob/40aa61ad9935816067f1b933b0529d77c187b9b9/public/snippets/assertions/assertj_kotest_compare.kt
 [bbdassertions]: https://joel-costigliola.github.io/assertj/core/api/org/assertj/core/api/BDDAssertions.html
