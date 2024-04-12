@@ -42,8 +42,6 @@ tags:
 | `tags`       | (опционально) Тэг                                                                                                        | Любая строка                                                                       |
 | `featured`   | (опционально, по умолчанию `true`) Если установить в `false` - страничку не будет видно на радаре, а только в [overview] | `true` или `false`                                                                 |
 
-Подробнее про квадранты и кольца смотри [how-to].
-
 Так как страничка - это `markdown` файл - можно вставлять картинки, для этого положи ее в `./public/images/` и добави ссылку:
 
 ```markdown
@@ -79,8 +77,31 @@ tags:
 
 При переводе технологии в `Adopt` - укажи, какие нашлись плюсы (это может быть что угодно).
 
-При переводе технологии в `Hold` - будет круто, если ты укажешь, почему это произошло: любые минусы, нюансы, неудобства.
-Если технологию заменили на другую, добавь ссылку на новую технологию.
+При переводе в `Hold` - стоит заполнить следущий шаблон:
+
+```markdown
+
+Краткое описание, что используем вместо этой технологии/языка/библиотеки.
+
+Если переезд легко формализуется в шаги, стоит описать их здесь.  
+В духе: 
+- добавить в проект новую зависимость
+- переписать использование старой
+- удалить старую зависимость  
+Так же это может быть ссылка на документацию по миграции, для примера можно посмотреть на accompanist insets.
+
+Допущения.  
+Для примера: отказываемся от AssertJ в пользу Kotest, но на java-проектах продолжаем использовать.
+
+---
+
+</br>
+
+Любые другие подробности (могут отсутствовать).
+
+```
+
+Пример перевода библиотеки в статус Hold - [assertj].
 
 ## Создание релиза
 
@@ -91,7 +112,7 @@ tags:
 ./script/create_new_release_folder.sh
 ```
 
-Новый релиз необходимо создавать при добавлении странички или изменении статуса технологии.
+Новый релиз необходимо создавать при добавлении странички или изменении статуса технологии.  
 Для исправления описания существующей страницы релиз создавать не нужно.
 
 <!-- Links -->
@@ -99,6 +120,6 @@ tags:
 [new-issue]: https://github.com/RedMadRobot/techradar-android/issues/new
 [new-discussion]: https://github.com/RedMadRobot/techradar-android/discussions/new
 [front-matter]: https://github.com/jxson/front-matter
-[how-to]: https://redmadrobot.github.io/techradar-android/help-and-about-tech-radar.html
-[overview]: https://redmadrobot.github.io/techradar-android/libraries.html
-[camerax]: https://redmadrobot.github.io/techradar-android/libraries/camerax.html
+[overview]: https://redmadrobot.github.io/techradar-android/libraries
+[camerax]: https://redmadrobot.github.io/techradar-android/libraries/camerax
+[assertj]: https://redmadrobot.github.io/techradar-android/libraries/assertj
