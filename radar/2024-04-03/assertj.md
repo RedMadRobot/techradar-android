@@ -19,8 +19,6 @@ tags: [unit testing]
 📝 Полезные ссылки
 
 - 🔒 База знаний: [Как написать первый тест](https://android.pages.redmadrobot.dev/knowledge/guide/testing/quickstart.html)
-- 🔒 База знаний: [Тестовая инфраструктура](https://android.pages.redmadrobot.dev/knowledge/guide/testing/infra.html)
-- 🔒 База знаний: [Глубокое погружение в тестирование](https://android.pages.redmadrobot.dev/knowledge/guide/testing/deep-dive.html)
 
 <!-- Links -->
 [asserts_compare]: https://github.com/RedMadRobot/techradar-android/blob/40aa61ad9935816067f1b933b0529d77c187b9b9/public/docs/assertions/assertj_kotest_compare.md

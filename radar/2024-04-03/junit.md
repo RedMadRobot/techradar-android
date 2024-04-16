@@ -1,7 +1,7 @@
 ---
 title:      JUnit 5
 ring:       assess
-quadrant:   libraries
+quadrant:   languages-and-frameworks
 tags: [unit testing]
 
 ---

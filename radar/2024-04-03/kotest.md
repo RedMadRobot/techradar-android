@@ -19,5 +19,4 @@ Kotest разделен на несколько самостоятельных �
 
 📝 Полезные ссылки:
 
-- 🔒 База знаний: [Тестовая инфраструктура](https://android.pages.redmadrobot.dev/knowledge/guide/testing/infra.html)
-- 🔒 База знаний: [Глубокое погружение в тестирование](https://android.pages.redmadrobot.dev/knowledge/guide/testing/deep-dive.html)
+- 🔒 База знаний: [Как написать первый тест](https://android.pages.redmadrobot.dev/knowledge/guide/testing/quickstart.html)
