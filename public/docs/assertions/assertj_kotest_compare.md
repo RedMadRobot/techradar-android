@@ -80,5 +80,5 @@
 [assertj_radar]: https://redmadrobot.github.io/techradar-android/libraries/assertj/
 [kotest_radar]: https://redmadrobot.github.io/techradar-android/libraries/kotest-assertion/
 [junit_radar]: https://redmadrobot.github.io/techradar-android/libraries/junit-assertion/
-[asserts_compare]: https://github.com/RedMadRobot/techradar-android/blob/40aa61ad9935816067f1b933b0529d77c187b9b9/public/snippets/assertions/assertj_kotest_compare.kt
+[asserts_compare]: https://github.com/RedMadRobot/techradar-android/blob/cb74ae5717440f6d71e3e52ae5caf34ac2b1a0c6/public/snippets/assertions/assertj_kotest_compare.kt
 [bbdassertions]: https://joel-costigliola.github.io/assertj/core/api/org/assertj/core/api/BDDAssertions.html

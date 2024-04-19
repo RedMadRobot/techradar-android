@@ -35,4 +35,4 @@ Kotest assertions предоставляет широкий спектр мет�
 - 🔒 База знаний: [Как написать первый тест](https://android.pages.redmadrobot.dev/knowledge/guide/testing/quickstart.html)
 
 <!-- Links -->
-[asserts_compare]: https://github.com/RedMadRobot/techradar-android/blob/40aa61ad9935816067f1b933b0529d77c187b9b9/public/docs/assertions/assertj_kotest_compare.md
+[asserts_compare]: https://github.com/RedMadRobot/techradar-android/blob/cb74ae5717440f6d71e3e52ae5caf34ac2b1a0c6/public/docs/assertions/assertj_kotest_compare.md
